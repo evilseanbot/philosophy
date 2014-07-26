@@ -3,11 +3,11 @@ philosophy
 
 The Nature Of Living Beings
 ==========
-Living beings exist because of the forces of evolution.
-Evolution pressures living beings into a form that will likely survive and reproduce their genes in that environment.
-Evolution takes 4000 generations to make powerful adaptions for their environment.
-Powerful selection can happen much sooner than 4000 generations.
-Outside of selection, evolution shapes living beings for the environment of 4000 generations ago.
+* Living beings exist because of the forces of evolution.
+* Evolution pressures living beings into a form that will likely survive and reproduce their genes in that environment.
+* Evolution takes 4000 generations to make powerful adaptions for their environment.
+* Powerful selection can happen much sooner than 4000 generations.
+* Outside of selection, evolution shapes living beings for the environment of 4000 generations ago.
 
 The Nature OF Modern Humans
 ==========
