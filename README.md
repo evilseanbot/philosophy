@@ -43,3 +43,12 @@ Irrational Behavior Of Human Beings
   - Enjoying watching numbers go up
   - Irrational fear of loss
   - Preference for naturalistic settings
+
+Religion
+=========
+* Religious instituitions exist because people perpetuate them.
+* Religious instituitions are perpetuated because of rational and irrational reasons.
+* Many religious instituitions benefit their leadership financially. This is espicially true of older churches.
+* Many religious instituitions benefit their leadership sexually. This is espicially true of newer churches.
+* Many religious instituitions have similar ideas and rules because those ideas and rules are of benefit to the instituition being perpeutated or of direct benefit to its leadership.
+* Many religious instituitions benefit their leadership at the cost of their common members.
