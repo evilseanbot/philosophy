@@ -30,3 +30,16 @@ Ways in which the way we were built (Evolution) does not prepare us for the worl
 * The desire has to do with reward systems on the brain that are based on evolutionary pressures, where reward signalling is * used to encourage survival-benefitting and reproduction-benefitting behavior.
 * Opiate addiction is a corruption of that reward system that inhibits the survival and reproductive potential of that person.
 * The environment that human beings evolved for did not supply a plentiful, convienant supply of opiates.
+
+Irrational Behavior Of Human Beings
+==========
+* A large amount of irrational behavior by human beings can be explained by what was beneficial behavior for survival and reproduction 100,000 years ago.
+* Examples of this irrational behavior most likely include:
+  - Enjoyment of Pornography
+  - Violent frustration
+  - Overeating
+  - Drug addiction
+  - Sexual paraphenelias
+  - Enjoying watching numbers go up
+  - Irrational fear of loss
+  - Preference for naturalistic settings
