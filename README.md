@@ -39,7 +39,7 @@ Irrational Behavior Of Human Beings
   - Violent frustration
   - Overeating
   - Drug addiction
-  - Sexual paraphenelias
+  - Intense, unusual sexual interests
   - Enjoying watching numbers go up
   - Irrational fear of loss
   - Preference for naturalistic settings
